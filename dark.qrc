@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QDarkStyleSheet.qss</file>
+        <file>QDarkStyleSheet/branch_closed.png</file>
+        <file>QDarkStyleSheet/branch_closed-on.png</file>
+        <file>QDarkStyleSheet/branch_open.png</file>
+        <file>QDarkStyleSheet/branch_open-on.png</file>
+        <file>QDarkStyleSheet/checkbox_checked.png</file>
+        <file>QDarkStyleSheet/checkbox_checked_disabled.png</file>
+        <file>QDarkStyleSheet/checkbox_checked_focus.png</file>
+        <file>QDarkStyleSheet/checkbox_indeterminate.png</file>
+        <file>QDarkStyleSheet/checkbox_indeterminate_disabled.png</file>
+        <file>QDarkStyleSheet/checkbox_indeterminate_focus.png</file>
+        <file>QDarkStyleSheet/checkbox_unchecked.png</file>
+        <file>QDarkStyleSheet/checkbox_unchecked_disabled.png</file>
+        <file>QDarkStyleSheet/checkbox_unchecked_focus.png</file>
+        <file>QDarkStyleSheet/close.png</file>
+        <file>QDarkStyleSheet/close-hover.png</file>
+        <file>QDarkStyleSheet/close-pressed.png</file>
+        <file>QDarkStyleSheet/down_arrow.png</file>
+        <file>QDarkStyleSheet/down_arrow_disabled.png</file>
+        <file>QDarkStyleSheet/Hmovetoolbar.png</file>
+        <file>QDarkStyleSheet/Hsepartoolbar.png</file>
+        <file>QDarkStyleSheet/left_arrow.png</file>
+        <file>QDarkStyleSheet/left_arrow_disabled.png</file>
+        <file>QDarkStyleSheet/radio_checked.png</file>
+        <file>QDarkStyleSheet/radio_checked_disabled.png</file>
+        <file>QDarkStyleSheet/radio_checked_focus.png</file>
+        <file>QDarkStyleSheet/radio_unchecked.png</file>
+        <file>QDarkStyleSheet/radio_unchecked_disabled.png</file>
+        <file>QDarkStyleSheet/radio_unchecked_focus.png</file>
+        <file>QDarkStyleSheet/right_arrow.png</file>
+        <file>QDarkStyleSheet/right_arrow_disabled.png</file>
+        <file>QDarkStyleSheet/sizegrip.png</file>
+        <file>QDarkStyleSheet/stylesheet-branch-end.png</file>
+        <file>QDarkStyleSheet/stylesheet-branch-more.png</file>
+        <file>QDarkStyleSheet/stylesheet-vline.png</file>
+        <file>QDarkStyleSheet/transparent.png</file>
+        <file>QDarkStyleSheet/undock.png</file>
+        <file>QDarkStyleSheet/up_arrow.png</file>
+        <file>QDarkStyleSheet/up_arrow_disabled.png</file>
+        <file>QDarkStyleSheet/Vmovetoolbar.png</file>
+        <file>QDarkStyleSheet/Vsepartoolbar.png</file>
+    </qresource>
+</RCC>
